@@ -1,0 +1,19 @@
+{
+  "numerical": [
+    "Age",
+    "resting_bp",
+    "cholesterol",
+    "max_hr",
+    "oldpeak"
+  ],
+  "categorical": [
+    "chest_pain_type",
+    "resting_ecg",
+    "st_slope"
+  ],
+  "passthrough": [
+    "Sex",
+    "fasting_bs",
+    "exercise_angina"
+  ]
+}

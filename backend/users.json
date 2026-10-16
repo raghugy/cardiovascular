@@ -1,0 +1,12 @@
+{
+  "sachin@example.com": {
+    "username": "Sachin",
+    "phone": "9876543210",
+    "password": "scrypt:32768:8:1$NRbBEKLlFhD4n4tb$217a6c0fc8ecacf79169affa02b4ed13fffd286d93d5d838529ce1c7f43bf46aa6b7d01a5af107b248a7a0772d7b85d644b8a3e8cbec5bc90dc31037e11fad4e"
+  },
+  "abd@gmailk.com": {
+    "username": "Sachin",
+    "phone": "7483564288",
+    "password": "scrypt:32768:8:1$D7TvWCM5G9G8KOER$8c995589caad3e6b91bb23f88c1ba0cd40c741e97f3f3888a6ebf37763e14d04e905df8ade2cf08c1fcc6f34f81b723d5d61c622ecd7e45cdac1694b99930515"
+  }
+}
